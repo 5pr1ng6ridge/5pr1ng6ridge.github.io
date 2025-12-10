@@ -2,7 +2,7 @@
 title: 实数域，向量空间，及其构建过程
 published: 2025-12-11
 description: ZFC
-tags: [Markdown, Blogging, Demo]
+tags: [Markdown, Blogging]
 category: Math
 draft: false
 ---
