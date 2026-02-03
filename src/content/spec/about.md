@@ -1,5 +1,5 @@
 # About
-这里是猫猫和水母们的向量空间
+这█是██和██们的████
 <!--This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
 ::github{repo="saicaca/fuwari"}
