@@ -10,7 +10,8 @@ draft: false
 > 发布日期：2021-12-09
 > 来源：https://www.douban.com/review/14055969/
 
-# 引言
+ 引言:
+
 2022.11.7  update：
 
 吐血更新1.8w字。我觉得之后应该不会再更了。Hope it will be helpful to you.
@@ -41,8 +42,11 @@ There must be a meaning and a reason for you coming through all chaos and pain.
 *此文非常长，需要耐心和时间。有比较复杂的部分，可以只挑自己感兴趣的部分阅读。*
 *尽力避免偏见，也难免有臆测和遗漏的部分。所以希望看官多加包涵，保持自己的判断。如果有异议或补充，也请提出。*
 *另外，我玩的是英文版。但是为了整理线索，拆了krkr包，拿到的是日英双语原文。日语应该是最准确的，但我的功力没那么好。夹杂英文的情况通常是引用原文，还请理解。*
-# 正文
-## 序：Everything has a meaning
+
+ 正文:
+
+# 序：Everything has a meaning
+
 - **以下是目录提纲。**
 1. 现实还是虚幻：镜像内外的时空之旅
     - 空间：几场旅行的风花雪月  
@@ -87,8 +91,8 @@ There must be a meaning and a reason for you coming through all chaos and pain.
 - 悬疑和后劲——表达技法的浅析
 
 - The second trip: 在写seabed解析的时候我在想什么？谈谈我自己对seabed这个作品的感受
-## 现实还是虚幻：镜像内外的时空之旅
-### 空间：几场旅行的风花雪月
+# 现实还是虚幻：镜像内外的时空之旅
+## 空间：几场旅行的风花雪月
 
 相信《seabed》最不缺的就是各种细节。涉及面相当广泛。
 其中最直观和亮眼的就是几次旅行。不过，碎片化讲述方式再加上在日常中穿插进行，又有很多梦境和幻觉掺和等诸多原因，显得多少虚幻。虽然相关CG模糊处理了，看起来比较朦胧，但描写很细致，再加上很标志性的地点，只要稍加调查就能找到现实世界的原型。  
@@ -97,7 +101,7 @@ There must be a meaning and a reason for you coming through all chaos and pain.
 而且整理这些之后会发现，各处地点与人物也多少有些对应性。所以通览风光的同时，也加上对应的人物评析。
  
 
-#### 南の島(序章The first day of the trip / Southern island)
+### 南の島(序章The first day of the trip / Southern island)
 
 现实:澳大利亚。
 人物:Takako & Sachiko 偏向Sachiko。
@@ -131,7 +135,7 @@ Takako: I don't have a mirror here, so just look at my eyes for a little. Your e
  
  
  
-#### 映画でよく観る港町(第一章/第三章/第五章 A port town straight out of a movie/Nob hill/Golden Gate Bridge/Vista point)
+### 映画でよく観る港町(第一章/第三章/第五章 A port town straight out of a movie/Nob hill/Golden Gate Bridge/Vista point)
 
 现实:美国加州旧金山。
 人物:Takako & Sachiko 偏向Takako。
@@ -144,7 +148,7 @@ Nob Hill(铛铛车，九曲花街)，Vista point。
  
 另外sanatorium的sea glass是真的存在，最著名的就是加州的布拉格堡的玻璃海滩。
 
-#### 石で出来た町(序章 The City of Stones/siesta/Campo de' Fiori)
+### 石で出来た町(序章 The City of Stones/siesta/Campo de' Fiori)
 
 现实:意大利罗马。
 人物:Sachiko。
@@ -161,6 +165,7 @@ Nob Hill(铛铛车，九曲花街)，Vista point。
 但Sachiko在整理memento，听完T傻里傻气的录音后的Everything has a meaning也给我了很深的触动。
  
 > ***すべての事柄には意味がある。Everything has a meaning.***
+>
 >  ***今分からないことも、季節が変われば分かる時もある。Even if I don't have them now, time will bring me the answers***.
  
 思维不过是一闪即逝的脑电波合鸣。每条支流本来就来自大海，终会于seabed汇合彼此。
@@ -169,7 +174,7 @@ Nob Hill(铛铛车，九曲花街)，Vista point。
  
  
  
-#### 主舞台 Fujisaka Mansion & Kunugihara Sanatorium
+### 主舞台 Fujisaka Mansion & Kunugihara Sanatorium
 
 现实:(推测)兵库县神户港町 & Mansion/TS故乡港町/旧金山融合体
 人物:Sachiko，Narasaki，Nanae，Lily，Kozue。
@@ -208,12 +213,13 @@ Nanae在重装修期间还时不时参加local inn proprietor meeting，真的in
 >    *不妨先打听咖啡馆里喋喋不休谈论各种船样的老伯又带来了什么新消息。(第8章 A cheap hotel and cafe)*
 >    
 >    *——Don't think this will be the last place I'll take you to. (终章: A new journey)*
+>
 >   *I almost cannot wait.*
  
 
 * tips2: The second trip 经过立山黑部阿尔卑斯路线，是贯穿立山的壮丽山岳观光路线。游经富山县的称名瀑布(日本第一瀑布)，立山黑部的雪墙。
 
-#### A train heading far away——日日累积的那些最终会把我们带向哪里
+### A train heading far away——日日累积的那些最终会把我们带向哪里
  
 即使被社会多年毒打的社畜，在序章阶段也难免感到压抑。
 day in and day out的3点一线，家——电车——办公室。需要时常打理的家务琐碎。雷同到难以区分今天明天白天黑夜的办公室日常。
@@ -245,10 +251,11 @@ Narasaki虽然治疗时显得话很多，但注定能在Sachiko最终记忆里�
 小心那些潜移默化、让人渐渐屏住呼吸的改变，它会让你忘了原本来自哪里，为什么要出发。
 
 
-### 时间问题
+## 时间问题
 
 海学家都很优秀，但我不同意时间是完全混乱的说法。
-##### 1. 首先是故事发生的时间点。
+
+### 1. 首先是故事发生的时间点。
 
 正如这篇的注释所说，多种证据表明新开的大阪水族馆。1990年7月20日开业，Takako和Sanae谈论的新电影是1990年7月13日、日本版初公開が1990年9月28日，两者都指向了1990年秋。故事的时间段正是9月末到12月末的秋冬时节。
 
@@ -275,7 +282,9 @@ Sachiko和Takako在勘探地址创办公司时，计划的下个站点是澳大�
 sanatorium的时间流逝相对暧昧，缺乏常识性没错，但新闻类信息都是从现实得来。再加上上面的推理，我认为两处设定中都是1990年出现的新事物不是巧合。
 
 故事就是设定发生在1990年，而此时Sachiko正30岁，也处于一个人生转变期。 
-##### 2. Takako阅读的手账日期也是有内在顺序的。
+
+### 2. Takako阅读的手账日期也是有内在顺序的。
+
 - 1975\. 9. 22 幼稚园Takako抢椅子游戏。
 
 - 1976\. 9. 23 幼稚园三人过家家。
@@ -322,7 +331,8 @@ sanatorium的时间流逝相对暧昧，缺乏常识性没错，但新闻类信�
 不过我个人是直接-9年就当做现实数据来看的。
 
 好了，这是Takako阅读手账的时间问题。
-##### 3. 全时间线整理
+
+### 3. 全时间线整理
  
 好了，基于正文发生1990年秋，Sachiko正30岁，生于1960年推算。
 
@@ -348,7 +358,7 @@ sanatorium的时间流逝相对暧昧，缺乏常识性没错，但新闻类信�
 	
 	new jounery(1991. 春)(尾声)
 	
-##### 4. Sachiko的mansion时间整理
+### 4. Sachiko的mansion时间整理
 
 - 第1日:chapter 2 The hilltop mansion:  (An old car at a desolate station / The wall clock of the inn / The room / Dinner with Nanae)
 
@@ -371,7 +381,7 @@ sanatorium的时间流逝相对暧昧，缺乏常识性没错，但新闻类信�
 - 第10日:chapter 9 Return: (Station / Train)
 
 
-### 人物设定的细枝末节
+## 人物设定的细枝末节
 
 1. Sachiko家里有姐也有妹，父母会给她送洋服，不缺少温暖。但从小是在祖父母家呆的时间更长，心里的感情更深。有个灵异能的表姐妹。
 
@@ -386,25 +396,31 @@ sanatorium的时间流逝相对暧昧，缺乏常识性没错，但新闻类信�
 6. 全员姓名日英对照：
 
      水野佐知子  ->Mizuno Sachiko
+
      貴呼     ->Takako
+
      楢崎響    ->Narasaki Hibiki
 
      籘坂七重   ->Fujisaka  Nanae
+
      明井リリィ(百合香)-> Akei  Lily(Yurika)
     
       梢     ->Kozue
+
       繭子      ->Mayuko
 
       早苗        -> Sanae
 
       大分文    ->Ooita Fumi
+
       犬飼武彦   ->Inukai Takehito
+
       沢渡アンネリース ->Sawatari Annelyse 
 
 
  
 
-## 科幻还是魔幻？Narasaki之谜
+# 科幻还是魔幻？Narasaki之谜
 
 最让人迷惑的人物来了。
 首先明确一点，和Takako不同，Narasaki因为现实并不存在一个实体，没有连续流，所以她的记忆本来就应该是最碎片而混乱的。她任务间的衔接历史必然有编造的成分。
@@ -417,7 +433,7 @@ sanatorium的时间流逝相对暧昧，缺乏常识性没错，但新闻类信�
 我非常赞同她的Everything has a reason。但她很少解释过她自己在“It's just how the world works”的世界里如何一步步确定自身存在的reason。
 虽然但是，一个游戏何必呢。但我还是会试图从Everything has a reason的角度来解释《seabed》是科幻作，而不是魔幻。
 为此，以下几篇的内容会有大量原文的细节和神经科学相关词汇出没。
-### tips 1: Narasaki's clinic的光怪陆离
+## tips 1: Narasaki's clinic的光怪陆离
 
 首先是tips里的Narasaki's clinic。
  
@@ -454,7 +470,7 @@ Narasaki's clinic的不可思议大抵如此。
 另外，Narasaki她自己在写，并在sanatorium也推广的日记本。本质都是不同大脑皮层区域拥有的自传体回忆，为了提供自身存在而提供统计价值和线索。就像Sanae的笔记本全是读书笔记也不影响她继续存在。  所谓N的任务是把所有Takako的记忆碎片整合成整体，就是为Takako开辟单独自传体回忆的操作空间，并极力促进这部分与周围系统形成新的连接。神经元之间连接越多，这块空间的存在才会越稳定牢固，并运行在设定的范围内(主意识之下)。
  
 
-### Narasaki和皮革手账
+## Narasaki和皮革手账
 
 
 当然还有最关键的和特殊的“皮革手账”。
@@ -487,7 +503,7 @@ Final touch, Narasaki将手账转送给Takako并让T时不时的阅读和续写�
 以上就是我对tips里Narasaki's clinic的内容和主线关联的分析。
  
 
-### Narasaki能做到的也是有限的
+## Narasaki能做到的也是有限的
 
  
 可以看出，虽然初看clinic是有点灵异，但加上一些合理的假设和推论，发生的事情顺序和人物行事逻辑都是能说通的。
@@ -530,9 +546,9 @@ Narasaki一直称呼Sachiko的名字，而不是姓氏Mizuno。而长大的Sachi
  
 Narasaki说Takako的世界是特别的。但在sanatorium出现之前，只有Narasaki’s clinic是特别的。而今后Narasaki's clinic也会和sanatorium同在。 
 
-## 向下潜入:cave里Sachiko非常识遭遇的科学原理
+# 向下潜入:cave里Sachiko非常识遭遇的科学原理
 
-### 缸中之脑——危机重重的无意识麻痹之时
+## 缸中之脑——危机重重的无意识麻痹之时
 
 Sachiko当时是感情受到两波冲击(穿越隧道的记忆+Nanae非常相像Takako状态告白)，也许她的初衷只是想散散心。
 但cave的迷失，恐怕大部分得归罪她异常的生理状态。
@@ -572,7 +588,7 @@ Narasaki的dive前后看到了S大量的记忆碎片，还伴随幻觉，这些�
 有意识去代替无意识做的事情，即使一小部分也非常吃力。所以Narasaki才会对自身催眠，强行驱动无意识带动运动系统运作。
 
 
-### 在记忆之门敞开时的红蓝药丸——Narasaki给Sachiko的三个选项
+## 在记忆之门敞开时的红蓝药丸——Narasaki给Sachiko的三个选项
 
 当时Sachiko在所有记忆之门面前的选择有三个，都可以科学解释。
 如果意识选择了进入Takako世界之外的其他记忆，那么就确实失去了现实世界的连接。但人只要继续活着，这些脑区起码在梦境中还是会被激活的，所以也称不上死亡，也就是意识永远生活在梦中了。
@@ -594,7 +610,7 @@ Narasaki的dive前后看到了S大量的记忆碎片，还伴随幻觉，这些�
 I'd do anything if there was a way to make her come back.
 But neither she nor I could have wished for nonsense like this.(The Possibility of a Cure)
 
-### Sachiko的眼睛——意识能够做到的，只有选择和引导
+## Sachiko的眼睛——意识能够做到的，只有选择和引导
 
 Sachiko非常了解Takako，了解到不用言语就能明了对方在想什么的程度。
 Takako的存在深深嵌入在Sachiko的无意识里，移除已经是不可能的。
@@ -624,8 +640,9 @@ Narasaki问Sachiko，你明知道是梦，还是给她做了晚饭？(Dinner tog
 有时，只有意识做出的选择，才能让无意识不把一切掺杂在一起。
  
 
-## 仰望星空: Nothing that ever existed can disappear completely
-### 安居一隅还是冒险一跃——To be a fish or not to be, that is a question
+# 仰望星空: Nothing that ever existed can disappear completely
+
+## 安居一隅还是冒险一跃——To be a fish or not to be, that is a question
 
 We know each other so well we don't even need words!(Siesta)
 Sachiko非常了解Takako，了解到不用言语就能明了对方在想什么的程度。
@@ -662,7 +679,7 @@ A world slowly dying to preserve her life. slowly dying指的记忆也会随着�
 > 
 > *Most likely because I thought preserving it held more value than the remainder of my life.(The philosopher)*
 
-### Takako所在的特别世界——鏡の国(wonderland)
+## Takako所在的特别世界——鏡の国(wonderland)
  
 我认为那个世界本来就是特别的。
 并不魔幻。是任何人都有的，给灵魂安全休憩的所在。是睡不着，在海面上随着波浪漂流时，一遍遍从下方沉默而温柔擦顶过身躯的鲸鱼背。
@@ -682,7 +699,7 @@ Sachiko在进入mansion之后第一夜照镜子看到自己后，想要把头发
  
 镜面背后那个太阳西升东落的世界，实际是刚刚经过晶状体的投射到视网膜，未经任何意识处理的原始输入。
 是映出的地点和季节会随着Sachiko的不断前进而延展变化的自由国度。
-### being mortal——从5岁开始交汇，终于分离的道路
+## being mortal——从5岁开始交汇，终于分离的道路
 
 即使是今天，在疾病和死亡面前，人问为什么的空间依然小得可怜。Nameless disease让The picture of the two drew成为泡影。
 有时治愈，常常帮助，总是安慰。
@@ -707,7 +724,7 @@ being mortal，凡人终有一死。所以穿越死亡给你的最后通话，�
 只是为了告诉你，我也记得过去的一切。一起走过的旅程都很快乐。
 以及今后我会很好，希望你也是。
 
-## fwarinben: 暗处骚动神经的无名之物
+# fwarinben: 暗处骚动神经的无名之物
 
 对于《seabed》你的体验是不是类似这样:  
 前期乏味冗长，似乎有太多无关紧要的细节，而且每块讲一点就切换场景，组织逻辑比较散乱，大多数又是日常。全凭耐心和期待吊着。
@@ -728,7 +745,7 @@ being mortal，凡人终有一死。所以穿越死亡给你的最后通话，�
 但最终写出这些文字的时候，必须承认，她也给我很大的乐趣。
 不算轻松的旅程，但是值得。
 
-## 剧情概要，结构分析
+# 剧情概要，结构分析
 
 整体主要分成四个部分。
 
@@ -766,10 +783,10 @@ being mortal，凡人终有一死。所以穿越死亡给你的最后通话，�
 
 最终章: 观众通过Narasaki获取最客观的真相，而SNT三人都在内心接受了真相的同时忽略了令她们最痛苦的部分。ST最终的告别获得新的诠释，Narasaki和Takako得到新的归属。两个世界的人们开始各自新的生活和旅途。
 
-## 大千世界，微缩景观——意象解析
+# 大千世界，微缩景观——意象解析
 
 你以为我想马上谈蝴蝶或者鱼么？不，这两个后面我会谈，但我首要想说的意象是：无处不在的水。
-### 水
+## 水
 
 最首要的原因，当然是本作叫“seabed”。所以sea是最广阔最深邃的水文意象，也是少数贯穿始终的，且有着最深刻隐喻含义的水意象。
 
@@ -910,7 +927,7 @@ Sachiko第一次在序章的现实出场是在淋浴，伴随着葬礼CG，淋�
 第二种想仔细说的，也是容易被忽略成独立背景板但实际上是同一类型的意象：环境类的孤岛，还有生命类的花鸟鱼虫。
 
 首先是孤岛。
-### 孤岛
+## 孤岛
 
 当然孤岛的最大特征是与世隔绝，这里隔绝有两层含义，一个是与自然界隔绝，一个是与社会隔绝。而在岛上的生命面对这种隔绝的态度也有两种，一种是主动/欢迎，另一种是被动/反抗。
 
@@ -931,7 +948,7 @@ Sachiko习惯孤岛大部分时间也享受孤岛，因为她天生如此。但T
 所以另一侧最终还是随了她的愿，不仅开着车出游，最终还乘上了船，还一起去了海边玩。另一侧的疗养院也不再是孤岛。
 
 可以说正是因为有了孤岛，鸟和鱼的意象变得才这么重要。
-### 花鸟虫鱼
+## 花鸟虫鱼
 
 花鸟鱼虫。花鸟给了Sachiko，鱼虫给了Takako。
 
@@ -1043,7 +1060,7 @@ Sachiko->水野佐知子。Takako->貴呼。Narasaki->楢崎响。Mayuko->茧子
 蝴蝶的三个主要意涵：自由、死亡、灵魂在其中都有体现。蝶本身也是日式美学里非常经典的物哀意象，这点对于国人其实不用多解释。 
 
 所以茧子与佐知子的联系，从命名上得到了充分展现。
-### 声
+## 声
 
 最后是楢崎响和貴呼。
 
@@ -1067,7 +1084,7 @@ Sachiko->水野佐知子。Takako->貴呼。Narasaki->楢崎响。Mayuko->茧子
 
 所以沉入灵魂深处的是对方的声音，是最合理也是合适的选择。
 
-### 其他抽象意象
+## 其他抽象意象
 
 有一些意象不去谈它更深更泛的含义几乎是不可能的。比如说眼睛。
 
@@ -1120,7 +1137,7 @@ Sachiko->水野佐知子。Takako->貴呼。Narasaki->楢崎响。Mayuko->茧子
 > **Everything has a reason to be there. It's time which brings everything a meaning.**
 
 
-## 西洋的科学，东洋的美学——两人最初的起点
+# 西洋的科学，东洋的美学——两人最初的起点
 
 水野佐知子的“水野”是指代自然的取向，是面向原始的自我存在；“佐知子”代表的是知性的取向，是面向社会的意涵。
 
@@ -1190,7 +1207,7 @@ Sachiko没有Takako那样快速反应的锐度，但对自然和环境其实也�
 
 当西洋的科学和东洋的美学结合，传统意象的浪漫不会被削弱，而是被加倍增强。
 
-## 悬疑和后劲——表达技法的浅析
+# 悬疑和后劲——表达技法的浅析
 
 首先我先声明对电影或者文学没有太深的研究。所以只是我个人的一点观察感想啊。
 
@@ -1275,7 +1292,8 @@ Sachiko没有Takako那样快速反应的锐度，但对自然和环境其实也�
 真是对它又恨又爱 :）
 
 （另外多说下这个螺旋楼梯，Takako下山采购不是去美术馆逛了么？如果现实舞台是在兵库县神户六甲山的话，那兵库县立美术馆就在附近。它是安藤忠雄的著名设计作品，其中螺旋楼梯是很经典的，和场景中的很类似哈。 ）
-## The second trip: 在写seabed解析的时候我在想什么？谈谈我自己对seabed这个作品的感受
+
+# The second trip: 在写seabed解析的时候我在想什么？谈谈我自己对seabed这个作品的感受
 
 seabed我一年半前玩过之后，虽然半年后也写了上半部分解析，但心里还是一直放不下。我没有反复看它，因为没有足够的时间，就实在有点经受不起那种感情的冲刷。但每看一次就咬着牙赶紧写下来这次的心得。
 
